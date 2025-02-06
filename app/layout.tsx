@@ -14,7 +14,7 @@ const fontSans = Plus_Jakarta_Sans({
 export const metadata: Metadata = {
   title: "CarePulse",
   description: "A healthcare management system",
-  icons: "/public/favicon.ico",
+  icons: "/public/logo.ico",
 };
 
 export default function RootLayout({
